@@ -52,7 +52,7 @@ The purpose of this exercise is that identifying what technologies are in use, a
 | Dig | Finding subdomains |
 | Dnsrecon | Target validation |
 | Foxyproxy | Fingerprinting ||
-| Googlefu | Finding subdomains, Fingerprinting | Online | Google search syntax
+| [Googlefu] | Finding subdomains, Fingerprinting | Online | Google search syntax
 | [Hunter.io] | Target validation | Online | Allows the ability to identify email addresses, email address patterns, users, departments, etc... |
 | HaveIBeenPwned | Data breaches |
 | Nmap | Finding subdomains, Fingerprinting |
