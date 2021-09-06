@@ -61,6 +61,20 @@ Example nmap scan. Some information has been exluded. Gives us a list of ports o
   * Port 80 - TCP
   * Port 139 - SMB
   * Port 443 - HTTPS
+
+nmap -T4 -p- -A
+	-T4 nmap has a choice of spead -T 1 -> 5
+	-p- scan for all ports, if not passed - will scan the most popular ports only, approx 65000 ports, need to know all which are open
+	-p- means scan all ports
+	-p X,X scan specific ports
+	-A everything, tell me everything that you can find
+	
+nmap - network map
+	scans for open ports
+	stealth scanning -sS
+		even tho its stealth it can still be detected.
+		SYN - open port responds SYNACK
+		nmap sends RST (lmao jk not really) - resets the connection so con isn't made
 ```
 └─$ sudo nmap -T4 -p- -A 192.168.81.129  
 Starting Nmap 7.91 ( https://nmap.org ) at 2021-09-06 13:29 EDT
