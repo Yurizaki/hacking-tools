@@ -75,8 +75,8 @@ The purpose of this exercise is that identifying what technologies are in use, a
 [Bugcrowd]: <https://bugcrowd.com/>
 [Course]: <https://www.udemy.com/course/draft/2642432/learn/lecture/16966290#overview>
 [Crt.sh]: <https://crt.sh/>
-[Googlefu]: <https://ahrefs.com/blog/google-advanced-search-operators/
-[hmaverickadams]: https://github.com/hmaverickadams
+[Googlefu]: <https://ahrefs.com/blog/google-advanced-search-operators/>
+[hmaverickadams]: https://github.com/hmaverickadams>
 [Httpprobe]: <https://github.com/tomnomnom/httprobe>
 [Hunter.io]: <https://hunter.io>
 [Owasp Amass]: <https://github.com/OWASP/Amass>
